@@ -1,0 +1,44 @@
+_repo: The-Romany-RyeA-Sequel-to-Lavengro-_25071
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Borrow, George
+    alias: Borrow, George Henry
+    birthdate: 1803
+    deathdate: 1881
+    gutenberg_agent_id: '4383'
+    url: http://www.gutenberg.org/2009/agents/4383
+    wikipedia: http://en.wikipedia.org/wiki/George_Borrow
+  editor:
+    agent_name: Sampson, John
+    birthdate: 1862
+    deathdate: 1931
+    gutenberg_agent_id: '28385'
+    url: http://www.gutenberg.org/2009/agents/28385
+description: The Romany Rye is a novel by George Borrow, written in 1857. Largely
+  thought to be at least partly autobiographical, it follows on from Lavengro (1851).
+  The title can be translated from Romany as 'Gipsy Gentleman'. On October 18, 1853,
+  Mrs. George Borrow wrote to John Murray (his publisher), and spoke of her husband's
+  completing his work - "which he proposes to call The Romany Rye - A Sequel to Lavengro."
+  The story itself follows the journey of a learned young man thrown in with Gypsies.
+  It is a philosophical adventure story of sorts ...
+gutenberg_issued: '2008-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25071'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Romanies -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Adventure stories'
+- !lcsh 'England -- Fiction'
+title: 'The Romany Rye
+
+  A Sequel to ''Lavengro'''
+url: http://www.gutenberg.org/ebooks/25071
